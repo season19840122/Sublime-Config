@@ -1,0 +1,14 @@
+[
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    { "keys": ["f12"], "command": "open_in_browser" },
+    { "keys": ["ctrl+f12"], "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+            "extensions":".*"
+        }
+    },
+    { "keys": ["ctrl+shift+s"], "command": "auto_save" },
+    { "keys": ["alt+s"], "command": "sass_beautify"},
+    { "keys": ["alt+d"], "command": "autoprefixer" }
+]

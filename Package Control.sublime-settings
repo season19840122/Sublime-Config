@@ -1,0 +1,51 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Autoprefixer",
+		"Babel",
+		"ColorPicker",
+		"Compass",
+		"ConvertToUTF8",
+		"CSSLint",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Jade",
+		"Jade Snippets",
+		"jQuery",
+		"JSHint",
+		"JSHint Gutter",
+		"LESS",
+		"MarkdownEditing",
+		"Nil-Theme",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Pug",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"Terminal",
+		"Theme - Soda",
+		"Vue Syntax Highlight",
+		"ZZZ"
+	]
+}
