@@ -10,6 +10,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
 		"Autoprefixer",
 		"Babel",
@@ -21,6 +22,7 @@
 		"DocBlockr",
 		"Emmet",
 		"Emmet Css Snippets",
+		"ES6-Toolkit",
 		"Git",
 		"GitGutter",
 		"Gulp",
@@ -28,11 +30,14 @@
 		"IMESupport",
 		"Jade",
 		"Jade Snippets",
+		"JavaScriptNext - ES6 Syntax",
 		"jQuery",
 		"JSHint",
 		"JSHint Gutter",
 		"LESS",
 		"MarkdownEditing",
+		"Material Theme",
+		"More Layouts",
 		"Nil-Theme",
 		"Package Control",
 		"Predawn",
@@ -44,9 +49,10 @@
 		"SublimeLinter",
 		"Syntax Highlighting for Sass",
 		"Terminal",
+		"Theme - Hero",
 		"Theme - Soda",
-		"Vuejs Snippets",
 		"Vue Syntax Highlight",
+		"Vuejs Snippets",
 		"ZZZ"
 	]
 }

@@ -1,19 +1,19 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Aurora (SL).tmTheme",
-	"font_size": 11.0,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"theme": "Material-Theme.sublime-theme",
-	"update_check": false,
-	"word_wrap": "auto",
-	"tab_size": 2,
+	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		".git",
 		"node_modules",
 		".sass-cache",
 		"bower_components"
-	]
+	],
+	"font_size": 11.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
+	"update_check": false,
+	"word_wrap": "auto"
 }
